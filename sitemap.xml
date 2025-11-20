@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://tacostechnologies.com/</loc>
+    <lastmod>2025-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://tacostechnologies.com/assets/tacoslogo1.png</image:loc>
+      <image:title>TACOS Technologies Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tacostechnologies.com/assets/drone1.png</image:loc>
+      <image:title>TACOS Technologies Flagship Drone</image:title>
+    </image:image>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://tacostechnologies.com/about.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tacostechnologies.com/assets/about.png</image:loc>
+      <image:title>About TACOS Technologies</image:title>
+    </image:image>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://tacostechnologies.com/contact.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://tacostechnologies.com/assets/contact2.png</image:loc>
+      <image:title>Contact TACOS Technologies</image:title>
+    </image:image>
+  </url>
+
+</urlset>
